@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>mandal</groupId>
-	<artifactId>EmployeeManagementSystem1</artifactId>
+	<artifactId>EmployeeManagementSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EmployeeManagementSystem1</name>
+	<name>EmployeeManagementSystem</name>
 	<description>Employee Management System</description>
 	<url/>
 	<licenses>
@@ -70,11 +70,7 @@
 			<artifactId>modelmapper</artifactId>
 			<version>3.1.1</version>
 		</dependency>
-		<dependency>
-			<groupId>mandal</groupId>
-			<artifactId>EmployeeManagement</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 
 	<build>
